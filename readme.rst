@@ -25,13 +25,13 @@ Fitur Aplikasi Web
 **************************
 
 1. Fitur Admin
-   a. Tambah,Edit,Hapus Produk.
-   b. Tambah,Edit,Hapus Katagori.
-   c. Menghapus Testimoni.
-   d. Melakukan Pesan Dengan Customer.
-   e. Melihat Data Pemesan.
-   f. Memberikan Informasi Proses Produksi.
-   g. Melihat Produk Yang dipesan.
+  a. Tambah,Edit,Hapus Produk.
+  b. Tambah,Edit,Hapus Katagori.
+  c. Menghapus Testimoni.
+  d. Melakukan Pesan Dengan Customer.
+  e. Melihat Data Pemesan.
+  f. Memberikan Informasi Proses Produksi.
+  g. Melihat Produk Yang dipesan.
 3. Fitur Customer
   a. Melihat Proses Produksi.
   b. Melihat Produk Yang dipesan.
