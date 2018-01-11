@@ -24,7 +24,7 @@ NB : username = BambangDwiHartono password = Bambang123
 Fitur Aplikasi Web
 **************************
 
-1. Fitur Admin
+A. Fitur Admin
   a. Tambah,Edit,Hapus Produk.
   b. Tambah,Edit,Hapus Katagori.
   c. Menghapus Testimoni.
@@ -32,11 +32,11 @@ Fitur Aplikasi Web
   e. Melihat Data Pemesan.
   f. Memberikan Informasi Proses Produksi.
   g. Melihat Produk Yang dipesan.
-3. Fitur Customer
+B. Fitur Customer
   a. Melihat Proses Produksi.
   b. Melihat Produk Yang dipesan.
   c. Melakukan Pesan dengan Customer Servis.
-4. Fitur Umum.
+C. Fitur Umum.
   a. Melihat Produk.
   b. Melihat Testimoni.
   c. Data Customer Servis.
