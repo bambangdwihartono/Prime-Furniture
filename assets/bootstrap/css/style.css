@@ -1,0 +1,217 @@
+/*Open All Halaman*/
+body{
+	background-color: #F2F2F2;
+}
+.warna{
+	color: #3D600A;
+}
+/*Close All Halaman*/
+/*Open Header*/
+.background-isi{
+	background-color: #FFFFFF;
+	box-shadow: 1px 1px 1px 1px #ABAAA7;
+}
+#padding-header{
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+#padding-menu{
+	margin-top: 2%;
+}
+.item-menu{
+	line-height: 40px;
+	height: 40px;
+	background-color: white;
+	color: green;
+	text-decoration: none;
+	box-shadow: 1px 1px 1px 1px #ABAAA7;
+}
+.item-menu:hover{
+	color: white;
+	background-color: #5FBF3C;
+	text-decoration: none;
+	text-shadow: 0px 1px yellow;
+}
+#padding-slidder{
+	margin-top: 2%;
+}
+#img-slide1{
+	margin-top: 2%;
+}
+#padding-slidder{
+	margin-top: 2%;
+}
+#welcome{
+	color: green;
+}
+.item-kontak{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: green;
+	box-shadow: 1px 1px 1px 1px #ABAAA7;
+}
+/*Close header*/
+/*Open Footer*/
+.background-footer{
+	background-color: green;
+	box-shadow: 1px 1px 1px 1px #ABAAA7;
+}
+.halaman-footer{
+	display: block;
+	color: white;
+}
+.halaman-footer:hover{
+	color: white;
+	text-decoration: none;
+}
+.title-footer{
+	color: white;
+	margin-top: 20px;
+	font-size: 18px;
+	background-color: #5FBF3C;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.halaman-kontak-footer{
+	color: white;
+}
+.footer{
+	background-color: #5FBF3C;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	margin-top: 20px;
+}
+/*Close Footer*/
+/*Open Halaman customer*/
+.penebal{
+	box-shadow: 1px 1px 2px 2px #ABAAA7;
+}
+.margin-bawah{
+	margin-bottom: 20px;
+}
+.background-katagori{
+	background-color: #FFFFFF;
+	box-shadow: 0px 0px 0px 2px green;
+	z-index: 1;
+}
+#katagori{
+	margin: 20px;
+	padding: 10px;
+	color: white;
+	box-shadow: 1px 1px 1px 1px #ABAAA7;
+	background-color: green;
+}
+#lihat-selengkapnya-katagori{
+	margin-bottom: 20px;
+}
+.batas-main-kiri{
+	border-left: 2px solid #E7E7E6;
+}
+#title-main-halaman-utama{
+	margin: 20px;
+	padding: 10px;
+	color: #3D600A;
+	box-shadow: 1px 1px 1px 1px #ABAAA7;
+}
+#judul-paragraf{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.paragraf-halaman-utama{
+	text-indent: 50px;
+}
+#lihat-selengkapnya-produk{
+	margin-bottom: 20px;
+}
+/*Close Halaman customer*/
+/*Open Halaman Login*/
+#batas-login{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	color: #3D600A;
+}
+/*Close Halaman Login*/
+/*Open Halaman admin*/
+.menu_admin{
+	color: white;
+	display: block;
+	line-height: 40px;
+	height: 40px;
+	text-decoration: none;
+	background-color: #5FBF3C;
+}
+.menu_admin:hover{
+	color: white;
+	text-decoration: none;
+	background-color: green;
+	box-shadow: 1px 1px 1px 1px orange;
+}
+#menu_admin{
+	box-shadow: 1px 1px 2px 2px yellow;
+	font-size: 20px;
+	display: block;
+	color: white;
+	line-height: 40px;
+	height: 40px;
+	background-color: green;
+}
+#menu_admin:hover{
+	color: white;
+	text-decoration: none;
+}
+#margin_menu_admin{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.batas-bawah{
+	margin-bottom: 20px;
+}
+#katagori-katalog{
+	display: block;
+}
+#katagori-katalog:hover{
+	color: #3D600A;
+	text-decoration: none;
+}
+.aside-katagori{
+	color: green;
+	padding: 5px;
+	display: block;
+}
+.aside-katagori:hover{
+	color: white;
+	text-decoration: none;
+	background-color: green;
+}
+/*Close Halaman admin*/
+/*Open Halaman Produk Katagori*/
+.ukuran-gambar{
+	width: 200px;
+}
+/*Close Halaman Produk Katagori*/
+/*Open Halaman kesalahan*/
+.kesalahan{
+	margin-top: 10%;
+}
+.kesalahan_dalam{
+	padding: 20px;
+}
+/*Close Halaman kesalahan*/
+/*Open Admin_pembeli*/
+.scroll{
+	overflow: scroll;
+}
+.ukuran_pembeli_seteangah{
+	height: 500px;
+}
+.ukuran_pembeli_satu{
+	height: 300px;
+}
+.pembeli_jarak{
+	padding: 40px;
+}
+.pesan_padding{
+	padding: 10px;
+}
+/*Close Admin_pembeli*/
