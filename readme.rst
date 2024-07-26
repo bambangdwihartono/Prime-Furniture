@@ -18,7 +18,7 @@ Sebelum melakukan instalasi anda harus memiliki server local seperti xampp.
   7. Kembali ke browser masukan lokasi file anda/url alamat file projek ini.
   8. Selesai.
 
-NB : username = BambangDwiHartono password = Bambang123
+NB : username = BambangDwiHartono password = 15Xharacters
 
 **************************
 Fitur Aplikasi Web
